@@ -20,11 +20,11 @@ Building innovative solutions through <b>VLSI</b> <b>Embedded Systems</b>, <b>Io
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yaswanth-pedapudi">
+<a href="www.linkedin.com/in/malleboyina-harsha-vardhan-4172a6344">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yaswanthpedapudi@gmail.com">
+<a href="mailto:malleboyinasunny29@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -36,7 +36,7 @@ Building innovative solutions through <b>VLSI</b> <b>Embedded Systems</b>, <b>Io
 
 Welcome to my personal portfolio website repository.
 
-This portfolio showcases my journey as an **Electronics & Communication Engineering** student, featuring my projects, technical skills, certifications, achievements, and interests in **Embedded Systems**, **IoT**, and **Web Development**.
+This portfolio showcases my journey as an **Electronics & Communication Engineering** student, featuring my projects, technical skills, certifications, achievements, and interests in **VLSI**,**Embedded Systems**, **IoT**, and **Web Development**.
 
 ---
 
@@ -124,15 +124,16 @@ Portfolio/
 
 📧 **Email**
 
-yaswanthpedapudi@gmail.com
+malleboyinasunny29@gmail.com
 
 💻 **GitHub**
 
-https://github.com/yaswanth1230
+https://github.com/Sunny2-9
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/yaswanth-pedapudi
+www.linkedin.com/in/malleboyina-harsha-vardhan-4172a6344
+
 
 🌐 **Portfolio**
 
@@ -142,10 +143,9 @@ https://yaswanth1230.github.io/Portfolio/
 
 <div align="center">
 
-### ⭐ If you like this project, please consider giving it a Star.
 
 Thank you for visiting my portfolio!
 
-Made with ❤️ by **Yaswanth Pedapudi**
+Made  by **Malleboyina Harsha vardhan **
 
 </div>
